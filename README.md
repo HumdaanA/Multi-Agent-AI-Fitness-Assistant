@@ -1,4 +1,4 @@
-# Overview
+# Multi-Agent AI Fitness Assistant
 
 The Multi-Agent AI Fitness Assistant is a smart fitness tool designed to help users track their fitness journey with AI-powered assistance. It allows users to create a fitness profile, set fitness and nutrition goals, and receive AI-generated recommendations tailored to their needs. The assistant also enables users to keep fitness notes and interact with an AI agent for personalized fitness advice.
 
