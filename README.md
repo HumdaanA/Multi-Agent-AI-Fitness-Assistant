@@ -1,6 +1,8 @@
 # Multi-Agent AI Fitness Assistant
 
-The Multi-Agent AI Fitness Assistant is a smart fitness tool designed to help users track their fitness journey with AI-powered assistance. It allows users to create a fitness profile, set fitness and nutrition goals, and receive AI-generated recommendations tailored to their needs. The assistant also enables users to keep fitness notes and interact with an AI agent for personalized fitness advice.
+The Multi-Agent AI Fitness Assistant is a smart fitness tool designed to help users track their fitness journey with AI-powered assistance. It allows users to create a fitness profile, set fitness and nutrition goals, and receive AI-generated recommendations tailored to their needs. The assistant also enables users to keep fitness notes and interact with an AI agent for personalized fitness advice. 
+
+You can view pictures of the different flows and the website [here](https://github.com/user-attachments/files/18862521/Multi.Agent.AI.fitness.assistant.Pictures.-.Humdaan.Ahmad.pdf).
 
 ## Features
 
@@ -73,3 +75,5 @@ The Multi-Agent AI Fitness Assistant is a smart fitness tool designed to help us
   - Integrated OpenAI token, AstraDB token, and LangFlow token.
 
   - Configured AstraDB endpoint for seamless AI data retrieval.
+
+
